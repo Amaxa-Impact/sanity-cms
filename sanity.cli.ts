@@ -14,3 +14,4 @@ export default defineCliConfig({
     appId: 'cgyrfybs3upll9eel30lzk8r',
   }
 })
+
